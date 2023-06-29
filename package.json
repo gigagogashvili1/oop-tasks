@@ -1,0 +1,16 @@
+{
+    "name": "bokerias-davaleba",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsx --watch main.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tsx": "^3.12.7",
+        "typescript": "^5.1.5"
+    }
+}
